@@ -1,6 +1,6 @@
 ### Hi there i'am Gabriel Azevedo👋
 
-- 🔭 I’m currently working on at iuniti a company created from a demand from another company that I have. Automate tasks/attendance via whatsapp.
+- 🔭 I’m currently working on at Converso a company created from a demand from another company that I have. Automate tasks/attendance via whatsapp.
 - 🌱 I’m currently learning Programming, because it is after a long time creating websites and editing some systems remembering I am from infrastructure but I ended up falling in love with the world of programming.
 - 👯 I’m looking to collaborate on in everything I know how to do, I am interested in helping and always learning.
 - 🤔 I’m looking for help with Process automation within whatsapp, but I can help with business processes more specifically in business consulting.
